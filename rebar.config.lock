@@ -156,7 +156,7 @@
                   "b3548d6973a1529bfada3cab9bbf602d43fb5e46"}},
        {plumtree,".*",
                  {git,"git://github.com/basho/plumtree.git",
-                      "c8be2fff7e4d420a1479c498dbfd8176c3182ae3"}},
+                      "405ebea1718a4582f23497392825f82df9e35c9b"}},
        {data_platform,".*",
                       {git,"git@github.com:/basho/data_platform_core.git",
                            "1e5c6dc2c8292ede71bb75ba8f12547c75dc7093"}},
