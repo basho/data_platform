@@ -304,11 +304,11 @@ make eunit
 ./rebar skip_deps=true eunit
 ```
 
-####Running dialyzer
+####Running Dialyzer
 
-Dialyzer performs statis analysis of the code to discover defects, edge-cases and discrepancies between type specifications and the actual implementation.
+Dialyzer performs static analysis of the code to discover defects, edge-cases and discrepancies between type specifications and the actual implementation.
 
-Dialyzer requires a pre-built code analysis table called a PLT. Building a PLT is expensive and can take up to 30 minutes on some machines. Once built, you generally want to avoid clearning or rebuilding the PLT unless you have had significant changes in your buil ( a new version of Erlang, for example ).
+Dialyzer requires a pre-built code analysis table called a PLT. Building a PLT is expensive and can take up to 30 minutes on some machines. Once built, you generally want to avoid clearing or rebuilding the PLT unless you have had significant changes in your build ( a new version of Erlang, for example).
 
 #####Build the PLT
 
