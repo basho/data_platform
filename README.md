@@ -7,7 +7,7 @@ The Basho Data Platform (BDP) is an extension to Riak. In addition to the offeri
 
 Below, you will find the “quick start” directions for setting up and using Riak. For more information, browse the following files:
 
-* Welcome to the Da
+* README: this file
 * LICENSE: the license under which Riak and the Data Platform is released
 * doc/
  * admin.org: Riak Administration Guide
