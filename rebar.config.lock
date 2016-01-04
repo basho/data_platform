@@ -159,7 +159,7 @@
                       "405ebea1718a4582f23497392825f82df9e35c9b"}},
        {data_platform,".*",
                       {git,"git://github.com/basho/data_platform_core.git",
-                           "c27ebc5e98b09a98b701884b92c573ac99f9bf52"}},
+                           "05f748dec44fe8a84f06ad8be7c2719e2c24fa8e"}},
        {canola,".*",
                {git,"git://github.com/basho/canola.git",
                     "9bdfee88fce20b3a01b7003696b53eb21913d6fb"}},
